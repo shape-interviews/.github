@@ -23,7 +23,7 @@ The typical interview process will last approximately 1 hour, with the following
 
 - **Introductions** (approx. 5 minutes): The interviewer(s) will introduce themselves and briefly explain the interview structure. You will also have the opportunity to introduce yourself, providing a brief overview of your background, experience, and what motivated you to apply for the position.
 
-- **Task Walkthrough** (approx. 10 minutes): You will present your solution to the take-home task, including any technical highlights. We also expect to see a live demonstration of the application from a phone or an emulator. Please ensure that you bring your own laptop for this portion of the interview, unless otherwise agreed upon beforehand.
+- **Task Walkthrough** (approx. 10 minutes): You will present your solution to the take-home task, including any technical highlights. We also expect to see a live demonstration of the application from a phone or an emulator. Please ensure that you bring your own laptop for this portion of the interview, unless otherwise agreed upon beforehand. If you are joining remote, test that you can join and share your screen in Google Meet.
 
 - **Technical Discussion and Questions** (approx. 30 minutes): The interviewer(s) will lead a discussion around your solution and ask relevant technical questions to gain a deeper understanding of your skills and experience.
 
