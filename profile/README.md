@@ -1,16 +1,15 @@
 ## 🎡 Process
 
-The technical interview process includes a take-home assignment and a follow-up in-person or remote interview. In the take-home task – with a problem provided by us and completed by you within your own time frame – you will be able to demonstrate your skills, understanding of the subject, and ability to deliver a working solution. After that, we will invite you for a face-to-face interview where we will have a more in-depth discussion about your approach, your solutions, and the tradeoffs you have considered, as well as evaluate your communication and teamwork.
+The technical interview process includes a take-home assignment and a follow-up in-person or remote interview. In the take-home assignment – with a problem provided by us and completed by you within your own time frame – you will be able to demonstrate your skills, understanding of the subject, and ability to deliver a working solution. After that, we will invite you for a face-to-face interview where we will have a more in-depth discussion about your approach, your solutions, and the tradeoffs you have considered, as well as evaluate your communication and teamwork.
 
 To help you prepare for your interview, this section describes what to expect before, during, and after the interview.
 
 ### 🧘‍♀ Before the interview
 
-- Carefully read through this README to understand the interview process and the take-home assignment.
-- Send an e-mail to the Talent Acquisition Manager (TAM), indicating an estimated time frame for completing the task.
-- Complete the task and push your solution to this repository.
+- Send an e-mail to the Talent Acquisition Manager (TAM), indicating an estimated time frame for completing the assignment.
+- Complete the assignment and push your solution to the repository you were invited to.
 - Prepare a list of any questions you may have about Shape, particularly regarding the technical team and its processes.
-- The TAM will schedule the interview based on your estimated completion time for the take-home task.
+- The TAM will schedule the interview based on your estimated completion time for the take-home assignment.
 - Our interviewer(s) will review your solution and use it as a basis for questions and discussion topics for the interview.
 
 ### 🪑 During the interview
@@ -23,7 +22,7 @@ The typical interview process will last approximately 1 hour, with the following
 
 - **Introductions** (approx. 5 minutes): The interviewer(s) will introduce themselves and briefly explain the interview structure. You will also have the opportunity to introduce yourself, provide a brief overview of your background, experience, and what motivated you to apply for the position.
 
-- **Task Walkthrough** (approx. 10 minutes): You will present your solution to the take-home task, including any technical highlights. We also expect to see a live demonstration of the application from a phone or an emulator. Please ensure that you bring your own laptop for this portion of the interview unless otherwise agreed upon beforehand. If you are joining remotely, please test that you can join and share your screen in Google Meet.
+- **Assignment Walkthrough** (approx. 10 minutes): You will present your solution to the take-home assignment, including any technical highlights. We also expect to see a live demonstration of the application from a phone or an emulator. Please ensure that you bring your own laptop for this portion of the interview unless otherwise agreed upon beforehand. If you are joining remotely, please test that you can join and share your screen in Google Meet.
 
 - **Technical Discussion and Questions** (approx. 30 minutes): The interviewer(s) will lead a discussion around your solution and ask relevant technical questions to gain a deeper understanding of your skills and experience.
 
