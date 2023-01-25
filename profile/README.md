@@ -43,13 +43,13 @@ Typically the interview process will last approximately 1 hour, with the followi
 
 ## 🧩 Criteria
 
-Now we will describe the criteria we use, when evaluating applicants for technical roles here at Shape. We will focus on four key areas during the evaluation process:
+Now we will describe the criteria we use when evaluating applicants for technical roles here at Shape. We will focus on four key areas during the evaluation process:
 
-- **Communication** is key. During a meeting with clients or sending an e-mail - we need to be able to understand your ideas and thoughts clearly.. This includes both technical communication, such as the ability to explain the trade-offs behind a technical decision, as well as general communication skills. Understanding the perspectives of others and being able to provide feedback are also very important qualities.
+- **Communication** is key. During a meeting with clients or sending an e-mail - we need to be able to understand your ideas and thoughts clearly. This includes both technical communication, such as the ability to explain the trade-offs behind a technical decision, as well as general communication skills. Understanding the perspectives of others and being able to provide feedback are also very important qualities.
 
 - **Technical level**: Technical level: [example of 3 languages, frameworks and technologies] - do you know them? Good! We value proficiency in specific programming languages, frameworks, and technologies, as well as your problem-solving abilities, and your understanding of technical concepts and best practices.
 
-- How does the **Product Work**? How is it used? And how do we improve it? We expect our colleagues at Shape to understand and think critically about how their work will impact the product and of course the user experience.
+- **Product Mindset:** How does the Product work? How is it used? And how do we improve it? We expect our colleagues at Shape to understand and think critically about how their work will impact the product and of course the user experience.
 
 - We value effective **Collaboration**. Remember the important communication skills? Giving constructive feedback is great, and receiving it well is even better. We all work in different ways, so the ability to adapt to different working styles, and the ability to communicate effectively with individuals from diverse backgrounds, roles, and responsibilities is important for successful collaborations.
 
