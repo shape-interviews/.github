@@ -12,10 +12,10 @@ Don’t worry. To help you prepare for your interview, this section describes wh
 
 ### 🧘‍♀ Before the interview
 
-- Send an e-mail to our Talent Acquisition Manager (TAM), indicating an estimated time frame for completing the assignment.
+- Send an e-mail to our Talent Acquisition Manager, indicating an estimated time frame for completing the assignment.
 - Complete the assignment and push your solution to this repository you were invited to.
 - Prepare a list of any questions you may have about Shape for the follow-up interview, particularly regarding the technical team and its processes.
-- Our TAM will schedule the interview based on your estimated completion time for the take-home assignment.
+- Our Talent Acquisition Manager will schedule the interview based on your estimated completion time for the take-home assignment.
 - We will review your solution and use it as a basis for questions and discussion topics for the interview.
 
 ### 🪑 During the interview
