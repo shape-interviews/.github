@@ -1,4 +1,4 @@
-Hey this is us!
+## Hey, this is us! 👋
 
 ![Team picture](https://user-images.githubusercontent.com/5055630/214524032-9011ccf6-67bc-4b30-b934-cb6aa613ee6c.jpg)
 
