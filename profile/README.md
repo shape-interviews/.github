@@ -1,6 +1,6 @@
 Hey this is us!
 
-![Team picture](/profile/team.jpg)
+![Team picture](team.jpg)
 
 Who are you? Let’s find out.
 
